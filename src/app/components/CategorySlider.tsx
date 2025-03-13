@@ -2,7 +2,6 @@
 import { GoArrowRight, GoArrowLeft } from "react-icons/go";
 import Link from 'next/link';
 import { useRef } from 'react';
-import { Category } from '@/types/GeneralTypes';
 import { CategorySliderProps } from "@/types/GeneralTypes";
 import Image from "next/image"
 

@@ -11,7 +11,7 @@ export default function ContactoPage() {
           <div className="md:w-1/2 relative">
             <div className="h-full w-full min-h-[400px] relative">
               <Image
-                src="/images/contact.jpg"
+                src="/images/contact.jpeg"
                 alt="Contacto"
                 fill
                 style={{ objectFit: 'cover' }}
