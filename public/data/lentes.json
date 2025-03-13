@@ -1,0 +1,28 @@
+[
+    {
+      "id": "A001",
+      "nombre": "Lentes de Seguridad Industrial",
+      "categoria": "anteojos",
+      "norma": "ANSI Z87.1",
+      "enlaceNorma": "https://example.com/ansi-z87-1",
+      "precio": 29.99,
+      "proveedor": "Protección Total S.A.",
+      "codigo": "LSI-2023",
+      "descripcion": "Lentes con protección UV y resistencia a impactos",
+      "imagen": "/carousel/banner1.jpg",
+      "destacado": true
+    },
+    {
+      "id": "A002",
+      "nombre": "Lentes Especializados",
+      "categoria": "anteojos",
+      "norma": "EN 166",
+      "enlaceNorma": "https://example.com/en166",
+      "precio": 45.5,
+      "proveedor": "Industrias SafeVision",
+      "codigo": "LES-2023",
+      "descripcion": "Protección contra salpicaduras químicas",
+      "imagen": "/carousel/banner2.jpg",
+      "destacado": true
+    } 
+  ]
